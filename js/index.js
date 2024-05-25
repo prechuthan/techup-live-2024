@@ -9,7 +9,7 @@ function convertProjectToHtmlCard(project) {
             <strong>${project.name}</strong>
             <a data-umami-event="${project.name}" href="${removeTrailingSlash(
     project.website
-  )}">${removeTrailingSlash(project.website)}</a>
+  )}" target="_blank" >${removeTrailingSlash(project.website)}</a>
             <p>${project.headline}</p>
         </article>
     </div>
