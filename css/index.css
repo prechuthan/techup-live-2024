@@ -53,12 +53,20 @@ article > p {
     visibility: hidden;
 }
 
+.logo-headline {
+    margin-top: 0.5rem;
+}
+
 .techup-links {
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
     text-align: center;
 }
 
 .techup-links > div > a {
     margin-left: 0.4rem;
     margin-right: 0.4rem;
+}
+
+.categories {
+    margin-bottom: 1.5rem;
 }

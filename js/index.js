@@ -15,7 +15,16 @@ function convertProjectToHtmlCard(project) {
     </div>
     `;
 
-  $(htmlCard).appendTo($("#techup-projects"));
+  if (
+    project.category != "" &&
+    project.category != "" &&
+    project.category != "" &&
+    project.website != "" &&
+    project.headline != "" &&
+    project.screenshot != ""
+  ) {
+    $(htmlCard).appendTo($("#techup-projects"));
+  }
 }
 
 function removeTrailingSlash(url) {
@@ -38,26 +47,46 @@ function sortByNameAscending(dataArray) {
   });
 }
 
+function isAllValuesNonEmpty(item) {
+  for (const key in item) {
+    if (item[key] === "" || item[key] === null || item[key] === undefined) {
+      return false;
+    }
+  }
+  return true;
+}
+
 $(async function () {
   const projects = await $.getJSON("../data/projects.json");
-  const sortedProjects = sortByNameAscending(projects);
+
+  sortByNameAscending(projects);
 
   await projects.map(convertProjectToHtmlCard);
 });
 
 $(function () {
-  $("#techup-categories").change(function () {
-    var selectedCategory = $(this).val();
+  function applyFilters() {
+    const selectedCategory = $("#techup-categories").val();
+    const query = $("#searchInput").val().toLowerCase();
 
     $("#techup-projects article").each(function () {
-      var articleCategory = $(this).data("category");
-      var parentDiv = $(this).closest("div");
+      const articleCategory = $(this).data("category");
+      const title = $(this).find("strong").text().toLowerCase();
+      const parentDiv = $(this).closest("div");
 
-      if (selectedCategory === "all" || articleCategory === selectedCategory) {
+      let showByCategory =
+        selectedCategory === "all" || articleCategory === selectedCategory;
+      let showBySearch = title.includes(query);
+
+      if (showByCategory && showBySearch) {
         parentDiv.show();
       } else {
         parentDiv.hide();
       }
     });
-  });
+  }
+
+  $("#techup-categories").change(applyFilters);
+
+  $("#searchInput").on("input", applyFilters);
 });
