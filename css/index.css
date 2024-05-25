@@ -49,6 +49,10 @@ article > p {
    -webkit-box-orient: vertical;
 }
 
+#searchInput {
+    border-radius: 0.25rem;
+}
+
 .hiden {
     visibility: hidden;
 }
@@ -65,8 +69,4 @@ article > p {
 .techup-links > div > a {
     margin-left: 0.4rem;
     margin-right: 0.4rem;
-}
-
-.categories {
-    margin-bottom: 1.5rem;
 }
