@@ -55,9 +55,10 @@ article > p {
 
 .techup-links {
     margin-bottom: 1rem;
+    text-align: center;
 }
 
-.techup-links {
-    margin-bottom: 1rem;
-    text-align: center;
+.techup-links > div > a {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
 }
