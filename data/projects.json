@@ -154,20 +154,20 @@
     "lg": "",
     "category": "education",
     "name": "Tutur",
-    "website": "",
+    "website": "https://tuturmelayu.com",
     "summary": "Tutur (which means 'speak' in Malay) is a web application designed for kids aged 4 to 6 to improve their Malay language proficiency by practicing vocabulary and pronunciation.",
     "headline": "Speak Malay with Tutur: Fun and Effective Language Practice for Kids 4-6!",
-    "screenshot": "./img/tutur-app.png"
+    "screenshot": "./img/tuturmelayu.com.png"
   },
   {
     "developer": "Chew Yihao",
     "lg": "3",
     "category": "food",
-    "name": "What2Cook",
-    "website": "https://what2cook.xyz",
+    "name": "Where2Eat",
+    "website": "https://where2eat.info",
     "summary": "",
-    "headline": "Introducing What2Cook, your solution to minimize food waste and maximize culinary creativity!",
-    "screenshot": ""
+    "headline": "Welcome to our food wonderland! Discover deliciousness in every bite!",
+    "screenshot": "./img/where2eat.info.png"
   },
   {
     "developer": "Bernard Toh",
