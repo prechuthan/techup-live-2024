@@ -778,5 +778,15 @@
     "summary": "",
     "headline": "Explore Stalls by Ex-Restaurant Chefs for a Delicious Dining Experience!",
     "screenshot": "./img/chefrebel.org.png"
-  }  
+  },
+  {
+    "developer": "Yunxi",
+    "lg": "12",
+    "category": "finance",
+    "name": "Bill Splitter",
+    "website": "https://adagiolab.space",
+    "summary": "",
+    "headline": "Eating together? Shopping together? Split your bills here!",
+    "screenshot": "./img/adagiolab.space.png"
+  }
 ]
