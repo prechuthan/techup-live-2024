@@ -1,403 +1,403 @@
 [
   {
-      "developer": "Celine Leo Boon June",
-      "lg": "1",
-      "category": "health-fitness",
-      "name": "PeriodPal",
-      "website": "https://periodpal.cc",
-      "summary": "Make peace with your hormones! Visit PeriodPal for accessible, informative content that sheds light on hormonal imbalances. Learn to recognize symptoms within your cycle, empowering you to make informed lifestyle choices. Join us on the journey to hormonal health and well-being!",
-      "headline": "Achieve Hormonal Harmony with PeriodPal: Empower Your Health with Expert Insights!",
-      "screenshot": "./img/periodpal.cc.png"
+    "developer": "Celine Leo Boon June",
+    "lg": "1",
+    "category": "health-fitness",
+    "name": "PeriodPal",
+    "website": "https://periodpal.cc",
+    "summary": "Make peace with your hormones! Visit PeriodPal for accessible, informative content that sheds light on hormonal imbalances. Learn to recognize symptoms within your cycle, empowering you to make informed lifestyle choices. Join us on the journey to hormonal health and well-being!",
+    "headline": "Achieve Hormonal Harmony with PeriodPal: Empower Your Health with Expert Insights!",
+    "screenshot": "./img/periodpal.cc.png"
   },
   {
-      "developer": "Nuramira Shadrina Binte Mohamad Nasir",
-      "lg": "1",
-      "category": "community",
-      "name": "MuslimPrayGoWhere",
-      "website": "https://muslimpraygowhere.com",
-      "summary": "Navigate your faith: Find prayer rooms in Singapore with MuslimPrayGoWhere!",
-      "headline": "Navigate your faith: Find prayer rooms in Singapore with MuslimPrayGoWhere!",
-      "screenshot": "./img/muslimpraygowhere.com.png"
+    "developer": "Nuramira Shadrina Binte Mohamad Nasir",
+    "lg": "1",
+    "category": "community",
+    "name": "MuslimPrayGoWhere",
+    "website": "https://muslimpraygowhere.com",
+    "summary": "Navigate your faith: Find prayer rooms in Singapore with MuslimPrayGoWhere!",
+    "headline": "Navigate your faith: Find prayer rooms in Singapore with MuslimPrayGoWhere!",
+    "screenshot": "./img/muslimpraygowhere.com.png"
   },
   {
-      "developer": "Adelyn Wan Ke Xuan",
-      "lg": "1",
-      "category": "community",
-      "name": "readyKnot",
-      "website": "https://www.readyknot.co",
-      "summary": "Your stress-free wedding planning partner for creating unforgettable memories with ease.",
-      "headline": "Stress-Free Wedding Planning: Your Partner in Creating Unforgettable Memories!",
-      "screenshot": ""
+    "developer": "Adelyn Wan Ke Xuan",
+    "lg": "1",
+    "category": "community",
+    "name": "readyKnot",
+    "website": "https://www.readyknot.co",
+    "summary": "Your stress-free wedding planning partner for creating unforgettable memories with ease.",
+    "headline": "Stress-Free Wedding Planning: Your Partner in Creating Unforgettable Memories!",
+    "screenshot": "./img/readyknot.co.png"
   },
   {
-      "developer": "Aileen Chia",
-      "lg": "1",
-      "category": "health-fitness",
-      "name": "trackmyprotein",
-      "website": "",
-      "summary": "Helps ladies understand the importance of sufficient protein intake, which are the food groups that are good protein sources, a simple calculator that calculates the daily protein intake and keep track over time.",
-      "headline": "Empower Your Health: Understand Protein's Role, Discover Top Sources, and Track Your Intake with Our Simple Calculator!",
-      "screenshot": ""
+    "developer": "Aileen Chia",
+    "lg": "1",
+    "category": "health-fitness",
+    "name": "trackmyprotein",
+    "website": "https://trackmyprotein.org",
+    "summary": "Helps ladies understand the importance of sufficient protein intake, which are the food groups that are good protein sources, a simple calculator that calculates the daily protein intake and keep track over time.",
+    "headline": "Empower Your Health: Understand Protein's Role, Discover Top Sources, and Track Your Intake with Our Simple Calculator!",
+    "screenshot": "./img/trackmyprotein.org.png"
   },
   {
-      "developer": "Grace Ng",
-      "lg": "1",
-      "category": "family",
-      "name": "FamilyTime",
-      "website": "https://familytime.work",
-      "summary": "",
-      "headline": "Discover Perfect Family Activities: Personalized Recommendations Tailored to Your Needs!",
-      "screenshot": "./img/familytime.work.png"
+    "developer": "Grace Ng",
+    "lg": "1",
+    "category": "family",
+    "name": "FamilyTime",
+    "website": "https://familytime.work",
+    "summary": "",
+    "headline": "Discover Perfect Family Activities: Personalized Recommendations Tailored to Your Needs!",
+    "screenshot": "./img/familytime.work.png"
   },
   {
-      "developer": "Charlie Cheong",
-      "lg": "1",
-      "category": "travel",
-      "name": "wheremymoney",
-      "website": "https://wheremymoney.work",
-      "summary": "Keep track of your expenses the next time you travel and spend your remaining balance on meaningful gifts!",
-      "headline": "Track Travel Expenses and Spend Smart: Use Your Balance for Meaningful Gifts!",
-      "screenshot": "./img/wheremymoney.work.png"
+    "developer": "Charlie Cheong",
+    "lg": "1",
+    "category": "travel",
+    "name": "wheremymoney",
+    "website": "https://wheremymoney.work",
+    "summary": "Keep track of your expenses the next time you travel and spend your remaining balance on meaningful gifts!",
+    "headline": "Track Travel Expenses and Spend Smart: Use Your Balance for Meaningful Gifts!",
+    "screenshot": "./img/wheremymoney.work.png"
   },
   {
-      "developer": "Ho Kok Hing",
-      "lg": "1",
-      "category": "health-fitness",
-      "name": "Match.Me!",
-      "website": "https://kokhing.org",
-      "summary": "Match trainers to buddies in under 1 minute and in situation with unpredictable turnout.",
-      "headline": "Instant Trainer-Buddy Match: Connect in Under 1 Minute, Even with Unpredictable Turnouts!",
-      "screenshot": "./img/kokhing.org.png"
+    "developer": "Ho Kok Hing",
+    "lg": "1",
+    "category": "health-fitness",
+    "name": "Match.Me!",
+    "website": "https://kokhing.org",
+    "summary": "Match trainers to buddies in under 1 minute and in situation with unpredictable turnout.",
+    "headline": "Instant Trainer-Buddy Match: Connect in Under 1 Minute, Even with Unpredictable Turnouts!",
+    "screenshot": "./img/kokhing.org.png"
   },
   {
-      "developer": "Cheryl Lim Yan Shan",
-      "lg": "2",
-      "category": "community",
-      "name": "Weekend Go Where",
-      "website": "https://weekendgowhere.net",
-      "summary": "",
-      "headline": "Discover Free Fun: Your One-Stop Hub for Cost-Free Date Activities and Events!",
-      "screenshot": "./img/weekendgowhere.net.png"
+    "developer": "Cheryl Lim Yan Shan",
+    "lg": "2",
+    "category": "community",
+    "name": "Weekend Go Where",
+    "website": "https://weekendgowhere.net",
+    "summary": "",
+    "headline": "Discover Free Fun: Your One-Stop Hub for Cost-Free Date Activities and Events!",
+    "screenshot": "./img/weekendgowhere.net.png"
   },
   {
-      "developer": "Chew Min Yi Desiree",
-      "lg": "2",
-      "category": "education",
-      "name": "SG Nature Calls",
-      "website": "https://sgnaturecalls.com",
-      "summary": "Are you attuned to the sounds of our City in Nature? Come learn about our local fauna with distinctive sounds!",
-      "headline": "Listen to Our City's Symphony: Explore Local Fauna with Unique Sounds!",
-      "screenshot": "./img/sgnaturecalls.com.png"
+    "developer": "Chew Min Yi Desiree",
+    "lg": "2",
+    "category": "education",
+    "name": "SG Nature Calls",
+    "website": "https://sgnaturecalls.com",
+    "summary": "Are you attuned to the sounds of our City in Nature? Come learn about our local fauna with distinctive sounds!",
+    "headline": "Listen to Our City's Symphony: Explore Local Fauna with Unique Sounds!",
+    "screenshot": "./img/sgnaturecalls.com.png"
   },
   {
-      "developer": "Terence Chia",
-      "lg": "2",
-      "category": "civil-service",
-      "name": "coach codi",
-      "website": "https://coach-codi.org",
-      "summary": "confused about careers? come chat with codi, the llama3 powered chat-coach.",
-      "headline": "Career Clarity Awaits: Chat with Codi, Your Llama3-Powered Chat-Coach!",
-      "screenshot": "./img/coach-codi.org.png"
+    "developer": "Terence Chia",
+    "lg": "2",
+    "category": "civil-service",
+    "name": "coach codi",
+    "website": "https://coach-codi.org",
+    "summary": "confused about careers? come chat with codi, the llama3 powered chat-coach.",
+    "headline": "Career Clarity Awaits: Chat with Codi, Your Llama3-Powered Chat-Coach!",
+    "screenshot": "./img/coach-codi.org.png"
   },
   {
-      "developer": "Chen Jinglin",
-      "lg": "2",
-      "category": "civil-service",
-      "name": "Mind Your Language!",
-      "website": "https://mindyourlanguage.cc",
-      "summary": "",
-      "headline": "Decode Civil Service Jargon and Corporate Buzzwords with Ease!",
-      "screenshot": "./img/mindyourlanguage.cc.png"
+    "developer": "Chen Jinglin",
+    "lg": "2",
+    "category": "civil-service",
+    "name": "Mind Your Language!",
+    "website": "https://mindyourlanguage.cc",
+    "summary": "",
+    "headline": "Decode Civil Service Jargon and Corporate Buzzwords with Ease!",
+    "screenshot": "./img/mindyourlanguage.cc.png"
   },
   {
-      "developer": "Muhammad Zahari Bin Abu Talib",
-      "lg": "2",
-      "category": "family",
-      "name": "Ready Daddy Go",
-      "website": "",
-      "summary": "Empower Your Dad Journey: Effortlessly Plan Quality Family Time with Our Millennial Dad-Friendly App!",
-      "headline": "",
-      "screenshot": ""
+    "developer": "Muhammad Zahari Bin Abu Talib",
+    "lg": "2",
+    "category": "family",
+    "name": "Ready Daddy Go",
+    "website": "https://ready-daddy.com",
+    "summary": "Empower Your Dad Journey: Effortlessly Plan Quality Family Time with Our Millennial Dad-Friendly App!",
+    "headline": "Empower Your Dad Journey: Effortlessly Plan Quality Family Time with Our Millennial Dad-Friendly App!",
+    "screenshot": "./img/ready-daddy.com.png"
   },
   {
-      "developer": "Priyadarshini",
-      "lg": "2",
-      "category": "education",
-      "name": "Singa-Lore",
-      "website": "https://singalore.app",
-      "summary": "[WIP] Singa-Lore tells you about the histories of streets and places near you're near right now, giving you bite-sized bits of history about Singapore's places as you pass by them in your everyday lives. You can also explore more of Singapore's places and histories through an interactive map.",
-      "headline": "Discover Singapore's Stories: Singa-Lore Guides You Through History, One Street at a Time!",
-      "screenshot": "./img/singalore.app.png"
+    "developer": "Priyadarshini",
+    "lg": "2",
+    "category": "education",
+    "name": "Singa-Lore",
+    "website": "https://singalore.app",
+    "summary": "[WIP] Singa-Lore tells you about the histories of streets and places near you're near right now, giving you bite-sized bits of history about Singapore's places as you pass by them in your everyday lives. You can also explore more of Singapore's places and histories through an interactive map.",
+    "headline": "Discover Singapore's Stories: Singa-Lore Guides You Through History, One Street at a Time!",
+    "screenshot": "./img/singalore.app.png"
   },
   {
-      "developer": "Muhammad Azhar Bin Mohamed Shukor",
-      "lg": "3",
-      "category": "education",
-      "name": "helpcheck",
-      "website": "https://helpchecksg.com",
-      "summary": "If you're not sure if a message is really from the government and if it's safe to click a link, helpcheck is here to help.",
-      "headline": "Stay Safe Online: HelpCheck Verifies Government Messages and Links for You!",
-      "screenshot": "./img/helpchecksg.com.png"
+    "developer": "Muhammad Azhar Bin Mohamed Shukor",
+    "lg": "3",
+    "category": "education",
+    "name": "helpcheck",
+    "website": "https://helpchecksg.com",
+    "summary": "If you're not sure if a message is really from the government and if it's safe to click a link, helpcheck is here to help.",
+    "headline": "Stay Safe Online: HelpCheck Verifies Government Messages and Links for You!",
+    "screenshot": "./img/helpchecksg.com.png"
   },
   {
-      "developer": "Muhammad Azhar Bin Mohamed Shukor",
-      "lg": "",
-      "category": "education",
-      "name": "Trilingo",
-      "website": "https://trilingotots.com",
-      "summary": "Trilingo is a web application designed for children aged 4-6 to learn English, Malay and Chinese simultaneously. With Trilingo, children can learn new words by simply capturing photos of objects. The app will then let the children know what it is and how to pronounce it in English, Malay and Chinese.",
-      "headline": "Unlock Multilingual Learning Fun: Trilingo Makes English, Malay, and Chinese Learning a Snap for Kids 4-6!",
-      "screenshot": "./img/trilingotots.com.png"
+    "developer": "Muhammad Azhar Bin Mohamed Shukor",
+    "lg": "",
+    "category": "education",
+    "name": "Trilingo",
+    "website": "https://trilingotots.com",
+    "summary": "Trilingo is a web application designed for children aged 4-6 to learn English, Malay and Chinese simultaneously. With Trilingo, children can learn new words by simply capturing photos of objects. The app will then let the children know what it is and how to pronounce it in English, Malay and Chinese.",
+    "headline": "Unlock Multilingual Learning Fun: Trilingo Makes English, Malay, and Chinese Learning a Snap for Kids 4-6!",
+    "screenshot": "./img/trilingotots.com.png"
   },
   {
-      "developer": "Muhammad Azhar Bin Mohamed Shukor",
-      "lg": "",
-      "category": "education",
-      "name": "Tutur",
-      "website": "",
-      "summary": "Tutur (which means 'speak' in Malay) is a web application designed for kids aged 4 to 6 to improve their Malay language proficiency by practicing vocabulary and pronunciation.",
-      "headline": "Speak Malay with Tutur: Fun and Effective Language Practice for Kids 4-6!",
-      "screenshot": ""
+    "developer": "Muhammad Azhar Bin Mohamed Shukor",
+    "lg": "",
+    "category": "education",
+    "name": "Tutur",
+    "website": "",
+    "summary": "Tutur (which means 'speak' in Malay) is a web application designed for kids aged 4 to 6 to improve their Malay language proficiency by practicing vocabulary and pronunciation.",
+    "headline": "Speak Malay with Tutur: Fun and Effective Language Practice for Kids 4-6!",
+    "screenshot": "./img/tutur-app.png"
   },
   {
-      "developer": "Chew Yihao",
-      "lg": "3",
-      "category": "food",
-      "name": "What2Cook",
-      "website": "https://what2cook.xyz",
-      "summary": "",
-      "headline": "Introducing What2Cook, your solution to minimize food waste and maximize culinary creativity!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Bernard Toh",
-      "lg": "3",
-      "category": "#N/A",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "headline": "",
-      "screenshot": ""
-  },
-  {
-      "developer": "Alamelu Subramaniam",
-      "lg": "3",
-      "category": "food",
-      "name": "Recipes from our Family Table",
-      "website": "https://my-family-recipes.com",
-      "summary": "Collection of family recipes, passed down, created at home and from others all in one place",
-      "headline": "Treasured Tastes: Your Family Recipe Vault, Bringing Generations Together in One Place!",
-      "screenshot": "./img/my-family-recipes.com.png"
-  },
-  {
-      "developer": "Sonya Chan",
-      "lg": "3",
-      "category": "health-fitness",
-      "name": "kaypoh usefully",
-      "website": "https://kaypohusefully.org",
-      "summary": "kaypoh usefully allows caregivers to log and share information in an easy and convenient way.",
-      "headline": "Stay Connected and Informed: Kaypoh Makes Caregiving Easy and Convenient!",
-      "screenshot": "./img/kaypohusefully.org.png"
-  },
-  {
-      "developer": "Soh Zi Yan",
-      "lg": "3",
-      "category": "civil-service",
-      "name": "LookMeUp",
-      "website": "https://lookmeup.org",
-      "summary": "With LookMeUp, employees can find their co-workers tagged to specific workstreams and their relevant contact details. This reduces the time and effort taken to search for co-workers with the current word-of-mouth process.",
-      "headline": "Streamline Collaboration: LookMeUp Helps Employees Quickly Find Co-Workers and Contact Details!",
-      "screenshot": "./img/lookmeup.org.png"
-  },
-  {
-      "developer": "Jolene Wong Xiu Wen",
-      "lg": "4",
-      "category": "finance",
-      "name": "WealthUp",
-      "website": "https://wealthup.cc",
-      "summary": "WealthUp aims to improve the financial literacy rate among GenZ in Singapore through community-based challenges and small actionable steps they can take after learning from Online Courses.",
-      "headline": "Empower Your Financial Future: WealthUp Guides Gen Z in Singapore with Interactive Challenges and Online Courses!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Jolin Ong Hwee Jing",
-      "lg": "4",
-      "category": "travel",
-      "name": "TourGether",
-      "website": "https://tourgether.xyz",
-      "summary": "",
-      "headline": "Effortless Group Travel Planning: TourGether Recommends Top Attractions, Facilitates Voting, and Creates Shared Itinerary!",
-      "screenshot": "./img/tourgether.xyz.png"
-  },
-  {
-      "developer": "Ng Kaijie",
-      "lg": "4",
-      "category": "sustainability",
-      "name": "EstateGiveaway",
-      "website": "https://estategiveaway.org",
-      "summary": "",
-      "headline": "Simplifying and Strengthening Communities by Connecting Givers and Receivers within Private Estates!",
-      "screenshot": "./img/estategiveaway.org.png"
-  },
-  {
-      "developer": "Poon Hong Yuen",
-      "lg": "4",
-      "category": "health-fitness",
-      "name": "Straigthen Up",
-      "website": "",
-      "summary": "",
-      "headline": "Start, Time, and Perfect Your Plank with Voice Commands and Real-Time Feedback!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Hong Mook Yong",
-      "lg": "4",
-      "category": "civil-service",
-      "name": "A Civil Exchange",
-      "website": "https://acivilexchange.org",
-      "summary": "A secure marketplace for civil servants to participate in the circular economy with confidence and to maximise use of collaterals.",
-      "headline": "Empowering Secure Transactions and Collateral Maximization in a Dedicated Marketplace!",
-      "screenshot": "./img/acivilexchange.org.png"
-  },
-  {
-      "developer": "Tracy Hung",
-      "lg": "4",
-      "category": "food",
-      "name": "SG Eat Where",
-      "website": "https://sgeatwhere.com",
-      "summary": "Find nearby food options by MRT stations",
-      "headline": "Discover Delicious Dining Near MRT Stations, Simplifying Choices and Saving Time!",
-      "screenshot": "./img/sgeatwhere.com.png"
-  },
-  {
-      "developer": "Patrick Pang",
-      "lg": "5",
-      "category": "sustainability",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "headline": "A Web App Dedicated to Streamlining E-Waste Management for a Sustainable Future!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Jonathan Siow Bao Sheng",
-      "lg": "5",
-      "category": "travel",
-      "name": "Off The Beaten Track",
-      "website": "https://offthebeatentrack.app\n",
-      "summary": "",
-      "headline": "Your Personal Travel Guru: Explore New Destinations Stress-Free with Tailored Recommendations!",
-      "screenshot": "./img/offthebeatentrack.app.png"
-  },
-  {
-      "developer": "A Kanageswari",
-      "lg": "5",
-      "category": "community",
-      "name": "RentAKayak",
-      "website": "",
-      "summary": "",
-      "headline": "Simplify Your Kayak Reservation Experience with RentAKayak!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Gwenda Fong",
-      "lg": "5",
-      "category": "civil-service",
-      "name": "DunSayBoJio",
-      "website": "https://dunsaybojio.net",
-      "summary": "DunSayBoJio is a web app that allows MDDI officers to initiate fun social activities to encourage cross-division bonding. Officers using the web app can see list of upcoming activities and sign up for whatever interests them.",
-      "headline": "DunSayBoJio: Strengthening Bonds Across Divisions with Fun Social Activities for MDDI Officers!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Shikhar Kapoor",
-      "lg": "5",
-      "category": "civil-service",
-      "name": "GovConnect",
-      "website": "",
-      "summary": "GovConnect is your gateway to a more interconnected and informed public sector.\n\nGovConnect enables public officers to quickly identify and collaborate with colleagues who are currently or have previously have managed similar projects.",
-      "headline": "Unlock Collaboration: GovConnect Facilitates Seamless Connections and Knowledge Sharing Across the Public Sector!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Narinderjit Kaur Gill",
-      "lg": "5",
-      "category": "community",
-      "name": "ShadeShare",
-      "website": "https://shadesshare.com",
-      "summary": "",
-      "headline": "Stay Dry, Travel Light: Borrow Umbrellas On-the-Go with ShadeShare!",
-      "screenshot": "./img/shadesshare.com.png"
-  },
-  {
-      "developer": "Chen Kaiwei",
-      "lg": "5",
-      "category": "civil-service",
-      "name": "Not a bot (not-bot.cc)",
-      "website": "",
-      "summary": "",
-      "headline": "Instant Citizen Assistance: Real-Time Bot Delivers Immediate Answers to Common Citizen Queries!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Tay Zhi Hao Ivan",
-      "lg": "6",
-      "category": "food",
-      "name": "SipHerbs",
-      "website": "",
-      "summary": "",
-      "headline": "Find Your Perfect Brew: Herbal Tea Recommendation Tailored to Your Health Needs!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Jaslyn Lim (Observer)",
-      "lg": "6",
-      "category": "civil-service",
-      "name": "iRecommend",
-      "website": "",
-      "summary": "",
-      "headline": "Instant Task-to-Toolkit Recommendations for Public Officers, Including Procurement Methods!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Tan Thiam Kee (Scott)",
-      "lg": "6",
-      "category": "civil-service",
-      "name": "Huh Whats This",
-      "website": "https://huhwhatsthis.org",
-      "summary": "",
-      "headline": "Your Interactive Repository for Abbreviations!",
-      "screenshot": ""
-  },
-  {
-      "developer": "Soon Jia Jun Luisa",
-      "lg": "6",
-      "category": "civil-service",
-      "name": "AI Hub",
-      "website": "https://aihubapp.com",
-      "summary": "",
-      "headline": "AI Hub: Articulate Your Needs and Receive Tailored Government AI Tool Recommendations!",
-      "screenshot": "./img/aihubapp.com.png"
-  },
-  {
-      "developer": "Tan Jia Jia (Jaye)",
-      "lg": "6",
-      "category": "civil-service",
-      "name": "Worthwhile",
-      "website": "https://worthit.cc",
-      "summary": "Make sure your product's worth the while.",
-      "headline": "Access Comparable Cost Benchmarks for Your Project Type with Ease!",
-      "screenshot": "./img/worthit.cc.png"
-  },
-  {
-      "developer": "Sim Feng-ji",
-      "lg": "6",
-      "category": "family",
-      "name": "",
-      "website": "",
-    "summary": "Reclaim Family Time: Motivate Homework with Fun, Engaging Incentives for Happy Parents and Successful Kids!",
-    "headline": "",
+    "developer": "Chew Yihao",
+    "lg": "3",
+    "category": "food",
+    "name": "What2Cook",
+    "website": "https://what2cook.xyz",
+    "summary": "",
+    "headline": "Introducing What2Cook, your solution to minimize food waste and maximize culinary creativity!",
     "screenshot": ""
+  },
+  {
+    "developer": "Bernard Toh",
+    "lg": "3",
+    "category": "#N/A",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "headline": "",
+    "screenshot": "./img/default.png"
+  },
+  {
+    "developer": "Alamelu Subramaniam",
+    "lg": "3",
+    "category": "food",
+    "name": "Recipes from our Family Table",
+    "website": "https://my-family-recipes.com",
+    "summary": "Collection of family recipes, passed down, created at home and from others all in one place",
+    "headline": "Treasured Tastes: Your Family Recipe Vault, Bringing Generations Together in One Place!",
+    "screenshot": "./img/my-family-recipes.com.png"
+  },
+  {
+    "developer": "Sonya Chan",
+    "lg": "3",
+    "category": "health-fitness",
+    "name": "kaypoh usefully",
+    "website": "https://kaypohusefully.org",
+    "summary": "kaypoh usefully allows caregivers to log and share information in an easy and convenient way.",
+    "headline": "Stay Connected and Informed: Kaypoh Makes Caregiving Easy and Convenient!",
+    "screenshot": "./img/kaypohusefully.org.png"
+  },
+  {
+    "developer": "Soh Zi Yan",
+    "lg": "3",
+    "category": "civil-service",
+    "name": "LookMeUp",
+    "website": "https://lookmeup.org",
+    "summary": "With LookMeUp, employees can find their co-workers tagged to specific workstreams and their relevant contact details. This reduces the time and effort taken to search for co-workers with the current word-of-mouth process.",
+    "headline": "Streamline Collaboration: LookMeUp Helps Employees Quickly Find Co-Workers and Contact Details!",
+    "screenshot": "./img/lookmeup.org.png"
+  },
+  {
+    "developer": "Jolene Wong Xiu Wen",
+    "lg": "4",
+    "category": "finance",
+    "name": "WealthUp",
+    "website": "https://wealthup.cc",
+    "summary": "WealthUp aims to improve the financial literacy rate among GenZ in Singapore through community-based challenges and small actionable steps they can take after learning from Online Courses.",
+    "headline": "Empower Your Financial Future: WealthUp Guides Gen Z in Singapore with Interactive Challenges and Online Courses!",
+    "screenshot": "./img/wealthup.cc.png"
+  },
+  {
+    "developer": "Jolin Ong Hwee Jing",
+    "lg": "4",
+    "category": "travel",
+    "name": "TourGether",
+    "website": "https://tourgether.xyz",
+    "summary": "",
+    "headline": "Effortless Group Travel Planning: TourGether Recommends Top Attractions, Facilitates Voting, and Creates Shared Itinerary!",
+    "screenshot": "./img/tourgether.xyz.png"
+  },
+  {
+    "developer": "Ng Kaijie",
+    "lg": "4",
+    "category": "sustainability",
+    "name": "EstateGiveaway",
+    "website": "https://estategiveaway.org",
+    "summary": "",
+    "headline": "Simplifying and Strengthening Communities by Connecting Givers and Receivers within Private Estates!",
+    "screenshot": "./img/estategiveaway.org.png"
+  },
+  {
+    "developer": "Poon Hong Yuen",
+    "lg": "4",
+    "category": "health-fitness",
+    "name": "Straigthen Up",
+    "website": "",
+    "summary": "",
+    "headline": "Start, Time, and Perfect Your Plank with Voice Commands and Real-Time Feedback!",
+    "screenshot": "./img/straigthen-up.png"
+  },
+  {
+    "developer": "Hong Mook Yong",
+    "lg": "4",
+    "category": "civil-service",
+    "name": "A Civil Exchange",
+    "website": "https://acivilexchange.org",
+    "summary": "A secure marketplace for civil servants to participate in the circular economy with confidence and to maximise use of collaterals.",
+    "headline": "Empowering Secure Transactions and Collateral Maximization in a Dedicated Marketplace!",
+    "screenshot": "./img/acivilexchange.org.png"
+  },
+  {
+    "developer": "Tracy Hung",
+    "lg": "4",
+    "category": "food",
+    "name": "SG Eat Where",
+    "website": "https://sgeatwhere.com",
+    "summary": "Find nearby food options by MRT stations",
+    "headline": "Discover Delicious Dining Near MRT Stations, Simplifying Choices and Saving Time!",
+    "screenshot": "./img/sgeatwhere.com.png"
+  },
+  {
+    "developer": "Patrick Pang",
+    "lg": "5",
+    "category": "sustainability",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "headline": "A Web App Dedicated to Streamlining E-Waste Management for a Sustainable Future!",
+    "screenshot": "./img/patrick-pang-sustainability.png"
+  },
+  {
+    "developer": "Jonathan Siow Bao Sheng",
+    "lg": "5",
+    "category": "travel",
+    "name": "Off The Beaten Track",
+    "website": "https://offthebeatentrack.app",
+    "summary": "",
+    "headline": "Your Personal Travel Guru: Explore New Destinations Stress-Free with Tailored Recommendations!",
+    "screenshot": "./img/offthebeatentrack.app.png"
+  },
+  {
+    "developer": "A Kanageswari",
+    "lg": "5",
+    "category": "community",
+    "name": "RentAKayak",
+    "website": "",
+    "summary": "",
+    "headline": "Simplify Your Kayak Reservation Experience with RentAKayak!",
+    "screenshot": "./img/rentakayak.png"
+  },
+  {
+    "developer": "Gwenda Fong",
+    "lg": "5",
+    "category": "civil-service",
+    "name": "DunSayBoJio",
+    "website": "https://dunsaybojio.net",
+    "summary": "DunSayBoJio is a web app that allows MDDI officers to initiate fun social activities to encourage cross-division bonding. Officers using the web app can see list of upcoming activities and sign up for whatever interests them.",
+    "headline": "DunSayBoJio: Strengthening Bonds Across Divisions with Fun Social Activities for MDDI Officers!",
+    "screenshot": "./img/dunsaybojio.net.png"
+  },
+  {
+    "developer": "Shikhar Kapoor",
+    "lg": "5",
+    "category": "civil-service",
+    "name": "GovConnect",
+    "website": "https://govconnect.club",
+    "summary": "GovConnect is your gateway to a more interconnected and informed public sector. GovConnect enables public officers to quickly identify and collaborate with colleagues who are currently or have previously have managed similar projects.",
+    "headline": "Unlock Collaboration: GovConnect Facilitates Seamless Connections and Knowledge Sharing Across the Public Sector!",
+    "screenshot": "./img/govconnect.club.png"
+  },
+  {
+    "developer": "Narinderjit Kaur Gill",
+    "lg": "5",
+    "category": "community",
+    "name": "ShadeShare",
+    "website": "https://shadesshare.com",
+    "summary": "",
+    "headline": "Stay Dry, Travel Light: Borrow Umbrellas On-the-Go with ShadeShare!",
+    "screenshot": "./img/shadesshare.com.png"
+  },
+  {
+    "developer": "Chen Kaiwei",
+    "lg": "5",
+    "category": "civil-service",
+    "name": "Not a bot (not-bot.cc)",
+    "website": "",
+    "summary": "",
+    "headline": "Instant Citizen Assistance: Real-Time Bot Delivers Immediate Answers to Common Citizen Queries!",
+    "screenshot": "./img/not-bot.cc.png"
+  },
+  {
+    "developer": "Tay Zhi Hao Ivan",
+    "lg": "6",
+    "category": "food",
+    "name": "SipHerbs",
+    "website": "https://sipherbs.org",
+    "summary": "",
+    "headline": "Find Your Perfect Brew: Herbal Tea Recommendation Tailored to Your Health Needs!",
+    "screenshot": "./img/sipherbs.org.png"
+  },
+  {
+    "developer": "Jaslyn Lim (Observer)",
+    "lg": "6",
+    "category": "civil-service",
+    "name": "iRecommend",
+    "website": "",
+    "summary": "",
+    "headline": "Instant Task-to-Toolkit Recommendations for Public Officers, Including Procurement Methods!",
+    "screenshot": "./img/irecommend.png"
+  },
+  {
+    "developer": "Tan Thiam Kee (Scott)",
+    "lg": "6",
+    "category": "civil-service",
+    "name": "Huh Whats This",
+    "website": "https://huhwhatsthis.org",
+    "summary": "",
+    "headline": "Your Interactive Repository for Abbreviations!",
+    "screenshot": "./img/huhwhatsthis.org.png"
+  },
+  {
+    "developer": "Soon Jia Jun Luisa",
+    "lg": "6",
+    "category": "civil-service",
+    "name": "AI Hub",
+    "website": "https://aihubapp.com",
+    "summary": "",
+    "headline": "AI Hub: Articulate Your Needs and Receive Tailored Government AI Tool Recommendations!",
+    "screenshot": "./img/aihubapp.com.png"
+  },
+  {
+    "developer": "Tan Jia Jia (Jaye)",
+    "lg": "6",
+    "category": "civil-service",
+    "name": "Worthwhile",
+    "website": "https://worthit.cc",
+    "summary": "Make sure your product's worth the while.",
+    "headline": "Access Comparable Cost Benchmarks for Your Project Type with Ease!",
+    "screenshot": "./img/worthit.cc.png"
+  },
+  {
+    "developer": "Sim Feng-ji",
+    "lg": "6",
+    "category": "family",
+    "name": "Study Buddy",
+    "website": "https://studybuddy.work",
+    "summary": "Reclaim Family Time: Motivate Homework with Fun, Engaging Incentives for Happy Parents and Successful Kids!",
+    "headline": "Reclaim Family Time: Motivate Homework with Fun, Engaging Incentives for Happy Parents and Successful Kids!",
+    "screenshot": "./img/studybuddy.work.png"
   },
   {
     "developer": "Fong Siow Ting",
@@ -427,7 +427,7 @@
     "website": "",
     "summary": "",
     "headline": "Effortless Clinic Booking: Access and Schedule Clinic Sessions with Ease",
-    "screenshot": ""
+    "screenshot": "./img/clinic-booking.png"
   },
   {
     "developer": "Joy Sarang Ng Shan Ling",
@@ -437,7 +437,7 @@
     "website": "https://sayknowtoscams.com",
     "summary": "A one-stop platform to get up-to-date information on how the public is protected against scams today, and how they can opt into additional safeguards, as offered by telcos, banks, and other platforms.",
     "headline": "Scam Protection: Stay Informed and Opt-In to Additional Safeguards Offered by Telcos, Banks, and More!",
-    "screenshot": ""
+    "screenshot": "./img/sayknowtoscams.com.png"
   },
   {
     "developer": "Wong Kangwen",
@@ -447,7 +447,7 @@
     "website": "",
     "summary": "",
     "headline": "Explore Restaurant Menu Reviews and Share Your Thoughts on Individual Dishes!",
-    "screenshot": ""
+    "screenshot": "./img/hungryeatwhat.png"
   },
   {
     "developer": "Yeo Jiong Han",
@@ -457,7 +457,7 @@
     "website": "https://saynotopfas.com",
     "summary": "",
     "headline": "Learn About PFAS Dangers and Find PFAS-Free Options by Product Class or Brand!",
-    "screenshot": ""
+    "screenshot": "./img/saynotopfas.com.png"
   },
   {
     "developer": "Goh Hanyan",
@@ -467,7 +467,7 @@
     "website": "",
     "summary": "",
     "headline": "",
-    "screenshot": ""
+    "screenshot": "./img/default.png"
   },
   {
     "developer": "Ng Huey Yan",
@@ -487,7 +487,7 @@
     "website": "",
     "summary": "",
     "headline": "Startup Resource Hub: Your One-Stop Solution for Business Support and Regulatory Compliance!",
-    "screenshot": ""
+    "screenshot": "./img/startup-resource-hub.png"
   },
   {
     "developer": "Vincent Low",
@@ -497,14 +497,14 @@
     "website": "https://bestpricesg.org",
     "summary": "",
     "headline": "Compare Prices, Discover Alternatives, and Rate Reliability for Household Products!",
-    "screenshot": ""
+    "screenshot": "./img/bestpricesg.org.png"
   },
   {
     "developer": "Loke Xing Wei, Wilson",
     "lg": "8",
     "category": "household-service",
     "name": "FixMyHDB",
-    "website": "https://fixmyhdb.com\n",
+    "website": "https://fixmyhdb.com",
     "summary": "",
     "headline": "Your One-Stop Platform for Plumbing, Electrical, and Home Repair Providers!",
     "screenshot": "./img/fixmyhdb.com.png"
@@ -527,7 +527,7 @@
     "website": "",
     "summary": "",
     "headline": "",
-    "screenshot": ""
+    "screenshot": "./img/default.png"
   },
   {
     "developer": "Lim Cher Maine",
@@ -537,7 +537,7 @@
     "website": "https://reportyourissue.org",
     "summary": "",
     "headline": "Voice Your Concerns: Let's Collaborate to Enhance our Office Environment!",
-    "screenshot": ""
+    "screenshot": "./img/reportyourissue.org.png"
   },
   {
     "developer": "Ng Sok Hwai",
@@ -587,7 +587,7 @@
     "website": "https://project-monitoring.org",
     "summary": "",
     "headline": "Streamlined Survey Result Collection: Effortlessly Input and Track Project Progress with Unique Project IDs and Real-Time Database Integration!",
-    "screenshot": ""
+    "screenshot": "./img/project-monitoring.org.png"
   },
   {
     "developer": "Ng Si Jia (Racheal)",
@@ -604,10 +604,10 @@
     "lg": "10",
     "category": "community",
     "name": "Sg Hospital Shuttle",
-    "website": "https://sghospitalshuttle.com",
-    "summary": "To consolidate the timings/availabilities of shuttle services provided by the respective hospitals.\n\nTo include the tracking of these shuttle buses  and provide push notifications for better time management and savings, real-time tracking of these buses and send notifications on the estimated time when the shuttle bus would arrive at the bus stop.",
+    "website": "https://sghospitalshuttleservices-static.onrender.com",
+    "summary": "To consolidate the timings/availabilities of shuttle services provided by the respective hospitals. To include the tracking of these shuttle buses and provide push notifications for better time management and savings, real-time tracking of these buses and send notifications on the estimated time when the shuttle bus would arrive at the bus stop.",
     "headline": "Streamlining Hospital Shuttle Services with Real-Time Tracking and Push Notifications for Improved Time Management and Convenience!",
-    "screenshot": ""
+    "screenshot": "./img/sghospitalshuttleservices-static.onrender.com.png"
   },
   {
     "developer": "Kimberly Tan",
@@ -617,7 +617,7 @@
     "website": "https://SpellBuddy.net",
     "summary": "A simple, user-friendly, self-learning web app for young children, which allows parents to input the spelling words for the week to encourage independent spelling practice with immediate feedback/checks, reducing the need for adult supervision. This helps busy parents who may not always be physically available to supervise and check their children's spelling practices.",
     "headline": "SpellBuddy: Empowering Independent Learning for Young Children",
-    "screenshot": ""
+    "screenshot": "./img/spellbuddy.net.png"
   },
   {
     "developer": "Oh Si Qi",
@@ -637,7 +637,7 @@
     "website": "",
     "summary": "",
     "headline": "BetterHop: Your Ultimate Interview Preparation Companion",
-    "screenshot": ""
+    "screenshot": "./img/betterhop.png"
   },
   {
     "developer": "Lee Jun Yi, Edmund",
@@ -657,7 +657,7 @@
     "website": "",
     "summary": "",
     "headline": "Locate Nearby Shower Facilities to MRT Stations for Convenience on the Go!",
-    "screenshot": ""
+    "screenshot": "./img/shower-facilities-mrt.png"
   },
   {
     "developer": "Lee Kai Chuan Keith",
@@ -673,11 +673,11 @@
     "developer": "Jolyn Wu",
     "lg": "11",
     "category": "civil-service",
-    "name": "",
-    "website": "",
+    "name": "Simple AF (Abbreviation Finder)",
+    "website": "https://simple-abbreviation-finder.com",
     "summary": "",
     "headline": "Acronym Finder: Search by Meaning, Abbreviation, or Sentence.",
-    "screenshot": ""
+    "screenshot": "./img/simple-abbreviation-finder.com.png"
   },
   {
     "developer": "Jasmine Ngo",
@@ -697,7 +697,7 @@
     "website": "",
     "summary": "",
     "headline": "Monitor Time Spent on Different Activities and Visualize Trends Over Time for Enhanced Productivity Insights!",
-    "screenshot": ""
+    "screenshot": "./img/productivity-insights.png"
   },
   {
     "developer": "Tan Yuh Huann",
@@ -705,9 +705,9 @@
     "category": "household-service",
     "name": "PawFridge",
     "website": "https://pawfridge.com",
-    "summary": "Welcome to PawFridge!\n– the convenient and practical solution to managing what's in your fridge.\nstretch your paw(s) today, and no more wasted food or forgotten items!",
+    "summary": "Welcome to PawFridge! – the convenient and practical solution to managing what's in your fridge. stretch your paw(s) today, and no more wasted food or forgotten items!",
     "headline": "PawFridge: Your Furry Friend for Fridge Management! Say Goodbye to Food Waste!",
-    "screenshot": ""
+    "screenshot": "./img/pawfridge.com.png"
   },
   {
     "developer": "Wong Wang Yui Joanna",
@@ -724,10 +724,10 @@
     "lg": "12",
     "category": "civil-service",
     "name": "What's done and what's not",
-    "website": "",
+    "website": "https://whatsdonewhatsnot.com",
     "summary": "Easily add, tick, and remove tasks live.",
-    "headline": "",
-    "screenshot": ""
+    "headline": "Streamline Grant Claim Submissions with Centralized Management for Enhanced Efficiency, Transparency, and Collaboration!",
+    "screenshot": "./img/whatsdonewhatsnot.com.png"
   },
   {
     "developer": "Evelyn Tok",
@@ -736,7 +736,7 @@
     "name": "Grantopia",
     "website": "https://grantopia.work",
     "summary": "",
-    "headline": "",
+    "headline": "Streamline Grant Claim Submissions with Centralized Management for Enhanced Efficiency, Transparency, and Collaboration!",
     "screenshot": "./img/grantopia.work.png"
   },
   {
@@ -745,8 +745,8 @@
     "category": "health-fitness",
     "name": "Find your A&E",
     "website": "https://techup-proj.work",
-    "summary": "Let users:\n1) Know when to go A&E for medical emergencies,\n2) Find a General Practitioner (GP) for non-emergency medical care, and\n3) Find A&E information.",
-    "headline": "",
+    "summary": "Let users: 1) Know when to go A&E for medical emergencies, 2) Find a General Practitioner (GP) for non-emergency medical care, and 3) Find A&E information.",
+    "headline": "Centralized Webpage for All Public Hospital Emergency Departments Information!",
     "screenshot": "./img/techup-proj.work.png"
   },
   {
@@ -756,7 +756,7 @@
     "name": "Project Elysium",
     "website": "https://project-elysium.com",
     "summary": "Itinerary planner with reminder segment and exporting function",
-    "headline": "",
+    "headline": "Organize Activities and Get Timely Alerts for Reservations to Ensure a Perfect Honeymoon Experience!",
     "screenshot": "./img/project-elysium.com.png"
   },
   {
@@ -766,7 +766,7 @@
     "name": "GiftaCheer",
     "website": "https://giftacheer.org",
     "summary": "",
-    "headline": "",
+    "headline": "Simplify OKR Tracking and Boost Engagement for Enhanced Team Performance!",
     "screenshot": "./img/giftacheer.org.png"
   },
   {
@@ -776,7 +776,7 @@
     "name": "Rebel Chefs",
     "website": "https://chefrebel.org",
     "summary": "",
-    "headline": "",
+    "headline": "Explore Stalls by Ex-Restaurant Chefs for a Delicious Dining Experience!",
     "screenshot": "./img/chefrebel.org.png"
-  }
+  }  
 ]
